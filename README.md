@@ -29,4 +29,3 @@ Note : Website ini awalnya masih versi beta dan belum disempurnakan oleh si TDEV
 Cek website ingfo menkrep yang masih aktif [Di sini](https://bit.ly/WebIngfoMenkrep)
 
 Website ini aku taruh di github buat kenang-kenangan :)
-# Website-Ingfo-Menkrep-Beta-
